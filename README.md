@@ -12,7 +12,7 @@ A curated list of awesome quantum computing learning ideas:
     - [Thirumallai](#thiru)
     - [Shisheer S Kaushik](#shisheer)
   
-- [Ideas list](#shisheer)
+- [Ideas list_shisheer](#shisheer)
     - [Quantum transfer learning](https://pennylane.ai/qml/demos/tutorial_quantum_transfer_learning)
     - [Learning to learn with quantum neural networks](https://pennylane.ai/qml/demos/learning2learn)
     - [Quantum Neural Networks](https://qiskit.org/ecosystem/machine-learning/tutorials/01_neural_networks.html)
@@ -21,5 +21,5 @@ A curated list of awesome quantum computing learning ideas:
     - [Quantum machine learning in medical image analysis](https://www.sciencedirect.com/science/article/pii/S0925231223000589)
     - [Solving The Vehicle Routing Problem via Quantum Support Vector Machines](https://inspirehep.net/literature/2686705)
 
-- [Ideas list](#ansari)
-- [Ideas list](#thiru)
+- [Ideas list_haris](#ansari)
+- [Ideas list_thiru](#thiru)
