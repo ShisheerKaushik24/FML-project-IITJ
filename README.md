@@ -1,5 +1,5 @@
 # FML-project-IITJ
-## Quantum Computing Learning Platform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Quantum Machine Learning ideas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome quantum computing learning ideas:
 
@@ -7,7 +7,7 @@ A curated list of awesome quantum computing learning ideas:
 
 <!-- MarkdownTOC depth=4 -->
 
-- [INTRODUCTION](#introduction)
+- [Members](#introduction)
     - [Harris Ansari](#ansari)
     - [Thirumallai](#thiru)
     - [Shisheer S Kaushik](#shisheer)
