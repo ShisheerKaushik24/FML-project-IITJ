@@ -20,8 +20,10 @@ A curated list of awesome quantum computing learning ideas:
     - [Neural Network Classifier & Regressor](https://qiskit.org/ecosystem/machine-learning/tutorials/02_neural_network_classifier_and_regressor.html)
     - [Quantum machine learning in medical image analysis](https://www.sciencedirect.com/science/article/pii/S0925231223000589)
     - [Solving The Vehicle Routing Problem via Quantum Support Vector Machines](https://inspirehep.net/literature/2686705)
-
+  
 - [Ideas list_haris](#ansari)
+  
 - [Ideas list_thiru](#thiru)
-    - [Efficiency and Accuracy comparison between classic ML and QML]
+    - [Efficiency and Accuracy comparison between classic ML and QML]()
+    - [Image Classification via Quantum Machine Learning](https://deepai.org/publication/image-classification-via-quantum-machine-learning)
       
