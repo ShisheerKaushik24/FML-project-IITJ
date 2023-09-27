@@ -24,5 +24,6 @@ A curated list of awesome quantum computing learning ideas:
 
 - [Ideas list_haris](#ansari)
 - [Ideas list_thiru](#thiru)
+    - [Quantum transfer learning](https://pennylane.ai/qml/demos/tutorial_quantum_transfer_learning)
 - [Ideas list Sumit](#sumit)
 
