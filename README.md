@@ -24,6 +24,5 @@ A curated list of awesome quantum computing learning ideas:
 - [Ideas list_haris](#ansari)
   
 - [Ideas list_thiru](#thiru)
-    - [Efficiency and Accuracy comparison between classic ML and QML]()
     - [Image Classification via Quantum Machine Learning](https://deepai.org/publication/image-classification-via-quantum-machine-learning)
       
