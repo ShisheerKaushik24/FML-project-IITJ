@@ -23,3 +23,5 @@ A curated list of awesome quantum computing learning ideas:
 
 - [Ideas list_haris](#ansari)
 - [Ideas list_thiru](#thiru)
+    - Efficiency and Accuracy comparison between classic ML and QML
+      
