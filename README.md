@@ -11,6 +11,7 @@ A curated list of awesome quantum computing learning ideas:
     - [Harris Ansari](#ansari)
     - [Thirumallai](#thiru)
     - [Shisheer S Kaushik](#shisheer)
+    - [Sumit kumar](#sumit)
   
 - [Ideas list_shisheer](#shisheer)
     - [Quantum transfer learning](https://pennylane.ai/qml/demos/tutorial_quantum_transfer_learning)
@@ -23,3 +24,5 @@ A curated list of awesome quantum computing learning ideas:
 
 - [Ideas list_haris](#ansari)
 - [Ideas list_thiru](#thiru)
+- [Ideas list Sumit](#sumit)
+
