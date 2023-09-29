@@ -26,6 +26,8 @@ A curated list of awesome quantum computing learning ideas:
     - [*Done using Classical model but we can try on the QML models* Autism Disease Detection Using Transfer Learning Techniques](https://arxiv.org/ftp/arxiv/papers/2306/2306.00283.pdf)
 
 - Ideas by Haris
+    - [Unsupervised quantum machine learning for fraud detection](https://arxiv.org/abs/2208.01203)
+    - [Quantum circuit optimization with deep reinforcement learning](https://arxiv.org/abs/2103.07585)
 - Ideas by Thiru
     - [Quantum transfer learning](https://pennylane.ai/qml/demos/tutorial_quantum_transfer_learning)
 - Ideas by Sumit
