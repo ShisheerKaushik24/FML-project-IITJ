@@ -1,6 +1,7 @@
 # FML-project-IITJ
 ## Quantum Machine Learning ideas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+Access the project problem statements [here](prompt/FML-project.pdf).\
 A curated list of awesome quantum computing learning ideas:
 
 ## Table of Contents
