@@ -31,3 +31,12 @@ A curated list of awesome quantum computing learning ideas:
 - Ideas by Sumit
     - [Binary Image Classification on fashion MNSIT with tensor flow and Cirq](https://github.com/Jayshah25/Classification-on-Fashion-MNIST-with-TensorFlow-TensorFlow-Quantum-and-Cirq)
 
+# License
+
+This work is licensed under a [Apache v2.0](LICENSE) license.
+
+<hr>
+
+Created and maintained by [@Shisheer S Kaushik][1].
+
+[1]: https://github.com/ShisheerKauhik24
