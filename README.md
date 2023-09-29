@@ -23,6 +23,7 @@ A curated list of awesome quantum computing learning ideas:
     - [Quantum machine learning in medical image analysis](https://www.sciencedirect.com/science/article/pii/S0925231223000589)
     - [Solving The Vehicle Routing Problem via Quantum Support Vector Machines](https://inspirehep.net/literature/2686705)
     - [Quantum Machine Learning for Mobile Malware Detection and Classification](https://www.mdpi.com/2076-3417/12/23/12025#:~:text=The%20workflow%20of%20the%20proposed,provide%20explainability%20in%20terms%20of)
+    - [*Done using Classical model but we can try on the QML models* Autism Disease Detection Using Transfer Learning Techniques](https://arxiv.org/ftp/arxiv/papers/2306/2306.00283.pdf)
 
 - Ideas by Haris
 - Ideas by Thiru
