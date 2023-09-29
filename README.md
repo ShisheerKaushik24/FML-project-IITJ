@@ -7,13 +7,13 @@ A curated list of awesome quantum computing learning ideas:
 
 <!-- MarkdownTOC depth=4 -->
 
-- [Members](#introduction)
-    - [Harris Ansari](#ansari)
-    - [Thirumallai](#thiru)
-    - [Shisheer S Kaushik](#shisheer)
-    - [Sumit kumar](#sumit)
+- [Members]
+    - [Harris Ansari](https://www.linkedin.com/in/haris-ansari-647861176/?originalSubdomain=in)
+    - [Thirumallai](https://www.linkedin.com/in/m-thirumalai/?originalSubdomain=in)
+    - [Shisheer S Kaushik](https://www.linkedin.com/in/shisheerkaushik24/)
+    - [Sumit kumar](https://www.linkedin.com/in/sumit-kumar-690869195/)
   
-- [Ideas list_shisheer](#shisheer)
+- [Ideas list_shisheer]
     - [Quantum transfer learning](https://pennylane.ai/qml/demos/tutorial_quantum_transfer_learning)
     - [Learning to learn with quantum neural networks](https://pennylane.ai/qml/demos/learning2learn)
     - [Quantum Neural Networks](https://qiskit.org/ecosystem/machine-learning/tutorials/01_neural_networks.html)
@@ -22,9 +22,9 @@ A curated list of awesome quantum computing learning ideas:
     - [Quantum machine learning in medical image analysis](https://www.sciencedirect.com/science/article/pii/S0925231223000589)
     - [Solving The Vehicle Routing Problem via Quantum Support Vector Machines](https://inspirehep.net/literature/2686705)
 
-- [Ideas list_haris](#ansari)
-- [Ideas list_thiru](#thiru)
+- [Ideas list_haris]
+- [Ideas list_thiru]
     - [Quantum transfer learning](https://pennylane.ai/qml/demos/tutorial_quantum_transfer_learning)
-- [Ideas list Sumit](#sumit)
+- [Ideas list Sumit]
     - [Binary Image Classification on fashion MNSIT with tensor flow and Cirq](https://github.com/Jayshah25/Classification-on-Fashion-MNIST-with-TensorFlow-TensorFlow-Quantum-and-Cirq)
 
