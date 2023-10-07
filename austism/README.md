@@ -34,41 +34,6 @@ to CPU
 **Architecture**
 
  ![Framework](./images/fig1.png)
-  ![Framework](./images/fig2.png)
-
-
-**Paper Link**
-https://ieeexplore.ieee.org/abstract/document/10196924?casa_token=DHISLDLb32gAAAAA:kCcnC6OfKCtR_gTmC1uaY-AN2DZtGIZJDPE8FROe7BAfvuBWK15PsPQMenNwBKLOj303uRl6Pv0
-
-**PDF Copy**
-https://arxiv.org/ftp/arxiv/papers/2306/2306.00283.pdf
-
-**My Google scholar**
-https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=PHg000cAAAAJ
-
-
-  **Cite Work**
-
-  Bibtex:  
-  
-  @inproceedings{akter2023autism,
-  title={Autism Disease Detection Using Transfer Learning Techniques: Performance Comparison Between Central Processing Unit vs Graphics Processing Unit Functions for Neural Networks},
-  author={Akter, Shapna and Shahriar, Hossain and Cuzzocrea, Alfredo},
-  booktitle={2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC)},
-  pages={1084--1092},
-  year={2023},
-  organization={IEEE}
-}
-
-
-**MLA:**
-
-Akter, Shapna, Hossain Shahriar, and Alfredo Cuzzocrea. "Autism Disease Detection Using Transfer Learning Techniques: Performance Comparison Between Central Processing Unit vs Graphics Processing Unit Functions for Neural Networks." 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC). IEEE, 2023.
-
-**APA:**
-
-Akter, S., Shahriar, H., & Cuzzocrea, A. (2023, June). Autism Disease Detection Using Transfer Learning Techniques: Performance Comparison Between Central Processing Unit vs Graphics Processing Unit Functions for Neural Networks. In 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC) (pp. 1084-1092). IEEE.
-
-
+ ![Framework](./images/fig2.png)
 
 
