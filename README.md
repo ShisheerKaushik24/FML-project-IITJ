@@ -32,7 +32,7 @@ A curated list of awesome quantum computing learning ideas:
     - [Quantum transfer learning](https://pennylane.ai/qml/demos/tutorial_quantum_transfer_learning)
 - Ideas by Sumit
     - [Binary Image Classification on fashion MNSIT with tensor flow and Cirq](https://github.com/Jayshah25/Classification-on-Fashion-MNIST-with-TensorFlow-TensorFlow-Quantum-and-Cirq)
-
+    - [Summary of Reseach Paper](prompt/Create Summary of Research - Autism.txt)
 # License
 
 This work is licensed under a [Apache v2.0](LICENSE) license.
