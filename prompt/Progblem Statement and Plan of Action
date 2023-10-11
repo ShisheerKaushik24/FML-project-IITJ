@@ -1,0 +1,25 @@
+## Problem Statement
+
+In the realm of image classification, the endeavor to harness the capabilities of Quantum Convolutional Neural Networks (QCNN) emerges as an intriguing challenge. Our mission is to delve into the unique convergence of quantum computing and image analysis. Specifically, we aim to unravel the mysteries of QCNN architecture and its application in classifying images, while keeping a keen focus on the Autism image dataset. Furthermore, we endeavor to draw comparisons between the QCNN and its classical counterpart, the Convolutional Neural Network (CNN).
+
+**The key facets of this problem statement are:**
+
+- **QCNN Insight:** Our core objective is to gain a profound comprehension of how Convolutional Neural Networks can be intricately translated into quantum gates and circuits.
+
+- **Quantum-Powered Imaging:** Our journey leads us to employ quantum computing principles to perform the intricate task of image classification, using the Autism dataset as our canvas. In particular, we will unravel the capacity of our model to distinguish between horizontal and vertical lines within the images.
+
+- **Beyond Classical Methods:** We aspire to unveil whether the QCNN outshines traditional CNNs, shedding light on its quantum potential for image classification.
+
+The grand roadmap, summarized as follows, paves the way for our research:
+
+**Plan of Action:**
+
+1. **Data Generation:** Our foremost step is to procure the Autism image dataset, meticulously preprocess it, and ensure it is primed for the profound task of line orientation classification—horizontal or vertical.
+
+2. **Building a QCNN:** The epicenter of our journey involves the construction of a Quantum Convolution Neural Network. Within this realm, we shall meticulously define convolutional and pooling layers, each being crafted from quantum gates. This ensemble will manifest itself in the form of a quantum circuit, specifically designed for 4 qubits.
+
+3. **Training our QCNN:** With data in hand, we embark on a voyage to optimize the quantum model's parameters. This optimization journey revolves around minimizing the loss function, a pivotal quest toward mastering the art of quantum image classification.
+
+4. **Testing our QCNN:** The ultimate proof of our quantum prowess lies in the evaluation of the trained Quantum Convolution Neural Network. The crucible of a test dataset will unveil the model's performance, casting light upon its accuracy in distinguishing horizontal from vertical lines.
+
+In embarking on this expedition, we unlock the door to a realm where the quantum meets the classical, and together they unravel the mysteries of image classification.
