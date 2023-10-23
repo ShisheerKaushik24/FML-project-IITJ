@@ -5,49 +5,49 @@ Access the project problem statement [here](prompt/FML-project.pdf).\
 A curated list of awesome quantum computing learning ideas:
 
 ### CSL7670 : Fundamentals of Machine Learning-Project Proposal
-*Haris Ansari(M23IQT003),Thirumalai M(M23IQT008),Sumit Kumar(M23IQT007),Shisheer Kaushik(M23IQT0063) \{October 11, 2023}*
+*Haris Ansari(M23IQT003)* <br> *Thirumalai M(M23IQT008)* <br> *Sumit Kumar(M23IQT007)* <br> *Shisheer Kaushik(M23IQT0063)* <br> <br>**{October 11, 2023}**
 
-**1.1 Proposal Title**
-QCNN - Automated Medical Image Diagnostics using QML
-**1.2 Problem Statement**
+**1.1 Proposal Title**<br>
+QCNN - Automated Medical Image Diagnostics using QML<br>
+**1.2 Problem Statement**<br>
 In the realm of image classification, the endeavor to harness the capabilities of Quantum Convolution Neural
 Networks (QCNN) emerges as an intriguing challenge. Our mission is to delve into the unique convergence of
 quantum computing and image analysis. Specifically, we aim to implement a model classifying face image
 data set to predict disorders (i.e.,Parkinson’s, Autism, etc), And to unravel the mysteries of QCNN
 architecture and its application in classifying images, while keeping a keen focus on the medical dataset and
 targeted towards disorders. Furthermore, we endeavor to draw comparisons between the QCNN and its
-classical counterpart, the Convolution Neural Network (CNN).
-**1.3 Objectives**
-Our project’s primary objectives include:
-• Building a diagnostic model for medical images.
-• Employing Convolution Neural Networks (CNNs) and transfer learning techniques.
-• Understanding the CNN in terms of Quantum Gates and circuits
-• Comparing the results between Classical CNN and QCNN.
-• Enabling real-time image interpretation to expedite the diagnostic process.
-**1.4 Plan of Action**
-To successfully execute our project, we propose a structured plan of action:
-**Week 1**: Literature Survey and Data Preparation
-• Analyzing critically and concisely earlier research and literature related QCNN .
+classical counterpart, the Convolution Neural Network (CNN).<br>
+**1.3 Objectives**<br>
+Our project’s primary objectives include:<br>
+• Building a diagnostic model for medical images.<br>
+• Employing Convolution Neural Networks (CNNs) and transfer learning techniques.<br>
+• Understanding the CNN in terms of Quantum Gates and circuits<br>
+• Comparing the results between Classical CNN and QCNN.<br>
+• Enabling real-time image interpretation to expedite the diagnostic process.<br>
+**1.4 Plan of Action**<br>
+To successfully execute our project, we propose a structured plan of action:<br>
+**Week 1**: Literature Survey and Data Preparation<br>
+• Analyzing critically and concisely earlier research and literature related QCNN.<br>
 • Gain a thorough understanding of medical data set and its unique challenges.Preprocess the dataset,
-ensuring it’s structured and cleaned.
-**Week 2**: Quantum Circuit Design
+ensuring it’s structured and cleaned.<br>
+**Week 2**: Quantum Circuit Design<br>
 • Begin the design of quantum circuits for the QCNN model. Translate Convolution and pooling layers
-into quantum gate operations.
+into quantum gate operations.<br>
 • Implement a QCNN architecture designed for 4 qubits. Verify that the circuits match the classical CNN
-layers in functionality.
-**Week 3**: Quantum Model Training
+layers in functionality.<br>
+**Week 3**: Quantum Model Training<br>
 • Set up the training pipeline for the QCNN. Define loss functions and optimization strategies for
-quantum parameters.
+quantum parameters.<br>
 • Train the QCNN, aiming to minimize the loss function through iterations. Evaluate its performance on
-the training data.
-**Week 4**: Testing, Evaluation and Comparison
+the training data.<br>
+**Week 4**: Testing, Evaluation and Comparison<br>
 • Employ a dedicated test dataset to assess the QCNN’s image classification capabilities. Calculate
-accuracy, precision, and recall.
+accuracy, precision, and recall.<br>
 • Create a comparative analysis with a classical CNN model for image classification, focusing on their
-respective performance..
-**1.5 Conclusion**
+respective performance.<br>
+**1.5 Conclusion**<br>
 By adhering to this 4-week plan, we aim to unravel the potential of Quantum Convolution Neural Networks
-in image classification and shed light on their quantum prowess in comparison to traditional approaches.
+in image classification and shed light on their quantum prowess in comparison to traditional approaches.<br>
 
 ## Table of Contents
 
