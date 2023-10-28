@@ -21,7 +21,7 @@ A curated list of awesome quantum computing learning ideas:
 
 #### Proposal Title
 
-[QCNN - Automated Medical Image Diagnostics using QML](#autism)
+[QCNN - Automated Medical Image Diagnostics using QML](austism)
 
 #### Problem Statement
 
