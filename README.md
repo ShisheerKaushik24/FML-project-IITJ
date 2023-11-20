@@ -6,8 +6,7 @@
 
 [Proposal Title](#proposal-title) | [Objectives](Objectives) | [Problem Statement](#problem-statement) | [contributors](#contributors) | [Plan of Action](#plan-of-action) | [Conclusion](#conclusion)
 
-Access the project problem statement [here](prompt/FML-project.pdf).\
-A curated list of awesome quantum computing learning ideas:
+The implementation of the project can be accessed via the following link: [here](autism).
 
 ## CSL7670 : Fundamentals of Machine Learning-Project Proposal
 ### Contributors:
@@ -21,7 +20,7 @@ A curated list of awesome quantum computing learning ideas:
 
 #### Proposal Title
 
-[QCNN - Automated Medical Image Diagnostics using QML](austism)
+**QCNN - Automated Medical Image Diagnostics using QML**
 
 #### Problem Statement
 
