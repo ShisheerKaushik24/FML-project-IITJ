@@ -73,3 +73,7 @@ This project integrates quantum processing into a classical deep learning pipeli
     - Matplotlib is used to visualize the accuracy and loss of the quantum model and classical model over epochs. The results are shown in two subplots, one for accuracy and one for loss, comparing the performance with and without the quantum layer.
 
  ![Framework](./images/output_1.png)
+
+## Code Repo
+
+Access the code in the [notebook](AutismDataset/penn.ipynb)
