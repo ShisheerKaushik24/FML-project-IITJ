@@ -44,7 +44,7 @@ This project integrates quantum processing into a classical deep learning pipeli
    - Labels are encoded with indices for autistic and non-autistic classes.
    - Image preprocessing involves resizing, normalization, and adding an extra dimension for convolution channels. The dataset is then split into training and testing sets using `train_test_split` from scikit-learn.
   
-![Framework](./images/fig1.png)
+![Framework](./images/output.png)
 
 3. **Quantum Circuit Definition (`circuit`):**
    - A quantum device with 4 qubits is created using PennyLane.
@@ -72,4 +72,4 @@ This project integrates quantum processing into a classical deep learning pipeli
 10. **Accuracy and Loss Visualization:**
     - Matplotlib is used to visualize the accuracy and loss of the quantum model and classical model over epochs. The results are shown in two subplots, one for accuracy and one for loss, comparing the performance with and without the quantum layer.
 
- ![Framework](./images/fig2.png)
+ ![Framework](./images/output_1.png)
