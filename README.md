@@ -4,7 +4,7 @@
 [![Python version 3.9](https://img.shields.io/badge/python-v3.9-brightgreen)](https://docs.python.org/3/whatsnew/3.9.html)
 
 
-[Proposal Title](#proposal-title) | [Objectives](Objectives) | [Problem Statement](#problem-statement) | [contributors](#contributors) | [Plan of Action](#plan-of-action) | [Conclusion](#conclusion)
+[Proposal Title](#proposal-title) | [Objectives](Objectives) | [Problem Statement](#problem-statement) | [contributors](#contributors) | [Plan of Action](#plan-of-action) | [Implementation details](austism) | [Conclusion](#conclusion) 
 
 The implementation of the project can be accessed via the following link: [here](austism).
 
