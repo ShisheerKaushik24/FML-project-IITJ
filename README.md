@@ -71,29 +71,41 @@ respective performance.<br>
 By adhering to this 4-week plan, we aim to unravel the potential of Quantum Convolution Neural Networks
 in image classification and shed light on their quantum prowess in comparison to traditional approaches.<br>
 
-## Ideas Discussed:
+**First steps to run locally**
 
-<!-- MarkdownTOC depth=4 -->
+Create a conda environment with the required dependencies:
+```bash
+conda env create -n quantumproj environment.yml && conda activate quantumproj
+```
+Installing pennylane :
+```bash
+python3 -m pip install -U pennylane --upgrade
+```
+PennyLane comes with high performance built-in simulators, such as `default.qubit`, `default.mixed`, and `lightning.qubit`. In addition, it supports additional quantum simulators and quantum hardware via an array of plugins. Visit the [plugins](https://pennylane.ai/plugins.html) page for details. As a instance, to use 'qiskit' :
+```bash
+python3 -m pip install -U pennylane-qiskit
+```
+Final step, installing PySCF (no support for native Windows platform, see [issue #750](https://github.com/pyscf/pyscf/issues/750)):
+```bash
+python3 -m pip install -U qiskit-nature[pyscf]
+```
+
+<br>
   
-- Ideas by Shisheer
-    - [Quantum transfer learning](https://pennylane.ai/qml/demos/tutorial_quantum_transfer_learning)
-    - [Learning to learn with quantum neural networks](https://pennylane.ai/qml/demos/learning2learn)
-    - [Quantum Neural Networks](https://qiskit.org/ecosystem/machine-learning/tutorials/01_neural_networks.html)
-    - [The Quantum Convolution Neural Network](https://qiskit.org/ecosystem/machine-learning/tutorials/11_quantum_convolutional_neural_networks.html)
-    - [Neural Network Classifier & Regressor](https://qiskit.org/ecosystem/machine-learning/tutorials/02_neural_network_classifier_and_regressor.html)
-    - [Quantum machine learning in medical image analysis](https://www.sciencedirect.com/science/article/pii/S0925231223000589)
-    - [Solving The Vehicle Routing Problem via Quantum Support Vector Machines](https://inspirehep.net/literature/2686705)
-    - [Quantum Machine Learning for Mobile Malware Detection and Classification](https://www.mdpi.com/2076-3417/12/23/12025#:~:text=The%20workflow%20of%20the%20proposed,provide%20explainability%20in%20terms%20of)
-    - [*Done using Classical model but we can try on the QML models* Autism Disease Detection Using Transfer Learning Techniques](https://arxiv.org/ftp/arxiv/papers/2306/2306.00283.pdf)
+Alternatively, one can install the required dependencies via the [package_list.txt](package_list.txt) file:
+```bash
+conda create -yn quantumproj python==3.9.11 && conda activate quantumproj
+```
+```bash
+conda update -yn base -c defaults conda && conda install -yc conda-forge pip==22.1.2
+```
+```bash
+python3 -m pip install --user --upgrade pip && python3 -m pip install -r requirements.txt
+```
 
-- Ideas by Haris
-    - [Unsupervised quantum machine learning for fraud detection](https://arxiv.org/abs/2208.01203)
-    - [Quantum circuit optimization with deep reinforcement learning](https://arxiv.org/abs/2103.07585)
-- Ideas by Thiru
-    - [Quantum transfer learning](https://pennylane.ai/qml/demos/tutorial_quantum_transfer_learning)
-- Ideas by Sumit
-    - [Binary Image Classification on fashion MNSIT with tensor flow and Cirq](https://github.com/Jayshah25/Classification-on-Fashion-MNIST-with-TensorFlow-TensorFlow-Quantum-and-Cirq)
-    - [Summary of Reseach Paper](prompt/summary_of_research_Autism.txt)
+## Contributions:
+Contributions to the repository are always welcome! If you have any ideas for new projects or would like to contribute to an existing one, please feel free to open a pull request.
+
 
 # License
 
