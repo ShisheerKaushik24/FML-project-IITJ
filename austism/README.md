@@ -76,4 +76,4 @@ This project integrates quantum processing into a classical deep learning pipeli
 
 ## Code Repo
 
-Access the code in the [notebook](austism/penn.ipynb)
+Access the code in the [notebook](penn.ipynb)
