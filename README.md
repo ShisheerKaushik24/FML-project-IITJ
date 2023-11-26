@@ -4,7 +4,7 @@
 [![Python version 3.9](https://img.shields.io/badge/python-v3.9-brightgreen)](https://docs.python.org/3/whatsnew/3.9.html)
 
 
-[Proposal Title](#proposal-title) | [Problem Statement](#problem-statement) | [contributors](#contributors) | [Plan of Action](#plan-of-action) | [Implementation details](austism) | [Project Report](prompt/report.pdf) | [Project Slides](prompt/ppt.pdf) | [Conclusion](#conclusion) |
+[Proposal Title](#proposal-title) | [Problem Statement](#problem-statement) | [contributors](#contributors) | [Plan of Action](#plan-of-action) | [Implementation details](austism) | [Project Report](prompt/report.pdf) | [Project Slides](prompt/ppt.pdf) | [Video](https://youtu.be/uIKkJragaoU?si=E95tmCCPxxCMWNke) | [Conclusion](#conclusion) |
 
 The implementation of the project can be accessed via the following link: [here](austism).<br>
 Also access the implemented [code notebook](austism/penn.ipynb).
