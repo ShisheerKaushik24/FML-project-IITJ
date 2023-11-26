@@ -6,7 +6,8 @@
 
 [Proposal Title](#proposal-title) | [Objectives](Objectives) | [Problem Statement](#problem-statement) | [contributors](#contributors) | [Plan of Action](#plan-of-action) | [Implementation details](austism) | [Conclusion](#conclusion) 
 
-The implementation of the project can be accessed via the following link: [here](austism).
+The implementation of the project can be accessed via the following link: [here](austism).<br>
+Also access the implemented [code notebook](austism/penn.ipynb).
 
 ## CSL7670 : Fundamentals of Machine Learning-Project Proposal
 ### Contributors:
